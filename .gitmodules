@@ -1,0 +1,3 @@
+[submodule "hackuoft-arduino"]
+	path = hackuoft-arduino
+	url = https://github.com/rymarktron/hackuoft-arduino.git
